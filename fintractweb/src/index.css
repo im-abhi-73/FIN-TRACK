@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+@import "tailwindcss";
+
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: #fbfcfb;
+  overflow-x: hidden;
+  
+}
+
+.font-pacifico {
+  font-family: "Pacifico", cursive;
+}
